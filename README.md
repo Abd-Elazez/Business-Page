@@ -10,11 +10,11 @@ it's a one page project with simple structure
 
 The page:
 
-!\[page](./desired-page.png)
+![page](./desired-page.png)
 
 
 
 colors and font used:
 
-!\[info](./color-font.png)
+![info](./color-font.png)
 
