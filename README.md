@@ -18,3 +18,8 @@ colors and font used:
 
 ![info](./color-font.png)
 
+### credits
+
+Photo by Binyamin Mellish: https://www.pexels.com/photo/brown-2-storey-house-under-blue-sky-1500459/
+
+
