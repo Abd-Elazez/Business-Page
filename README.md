@@ -10,13 +10,13 @@ it's a one page project with simple structure
 
 The page:
 
-![page](./desired-page.png)
+![page](./assets/desired-page.png)
 
 
 
 colors and font used:
 
-![info](./color-font.png)
+![info](./assets/color-font.png)
 
 ### credits
 
