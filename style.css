@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-/*
-#1f2937 is the dark back ground for the header and footer
-#f9faf8 is almost white (or actully white I am not sure) this for the main section
-#e5e7eb
-*/
-
 body {
     font-family: "Roboto", sans-serif;
     margin: 0%;
@@ -37,6 +31,7 @@ header {
 .logo {
     font-size: 24px;
     color: #f9faf8;
+    cursor: pointer;
 }
 
 ul {
@@ -47,6 +42,7 @@ ul {
     padding: 0%;
     font-size: 18px;
     color: #e5e7eb;
+    cursor: pointer;
 }
 
 .header-content {
@@ -65,7 +61,7 @@ button {
   cursor: pointer;
   border: 0;
   border-radius: 5px;
-  font-weight: 700;
+  font: inherit;
   margin: 0;
   width: 120px;
   padding: 10px 0;
@@ -139,4 +135,36 @@ main h3 {
 
 .quote p {
     align-self: flex-end;
+}
+
+.message {
+    width: 800px;
+    height: 130px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 85px;
+}
+
+.message button {
+    border: 2px solid white;
+}
+
+.message p {
+    margin-top: 0px;
+    color: #e5e7eb;
+}
+
+footer {
+    width: 100%;
+    padding: 30px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
